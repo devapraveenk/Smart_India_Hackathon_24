@@ -3,3 +3,6 @@ datagovindia
 python-dotenv
 fuzzywuzzy
 python-Levenshtein
+tensorflow
+keras
+scikit-learn
